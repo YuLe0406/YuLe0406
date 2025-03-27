@@ -1,7 +1,7 @@
 ## Hi, I'm Tan Yu Le ⚡
 
 💻 Last year IT diploma student at MMU Melaka<br/>
-🎨 Passionate about web development & UI/UX design<br/>  
+🎨 Passionate about web development & UI/UX design
 🛍️ Building **CTRL+X**, a streetwear store (Final Year Project)<br/> 
 🚀 Exploring backend development & cloud technologies<br/>  
 🎮 Gamer at heart – hit me up in Valorant!<br/>  
