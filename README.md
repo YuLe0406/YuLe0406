@@ -2,7 +2,7 @@
 
 💻 Last year IT diploma student at MMU Melaka<br/>
 🎨 Passionate about web development & UI/UX design<br/>
-🛍️ Building **CTRL+X**, a streetwear online clothing store (Final Year Project)<br/>
+🛍️ Building **CTRL+X**, a casual online clothing store (Final Year Project)<br/>
 🚀 Exploring backend development & cloud technologies<br/>
 🎮 Gamer at heart – hit me up in Valorant!<br/>
 
